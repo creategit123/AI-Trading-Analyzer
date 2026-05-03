@@ -184,7 +184,7 @@ python -m streamlit run app/streamlit_app.py
 
 ### Dashboard Overview
 
-![Dashboard](images/Screenshot%202026-05-02%20225452.png)
+Images section
 
 ---
 
